@@ -17,3 +17,7 @@ Initialization: random.
 Kernel Type: hard assignment.
 The algorithm merge kernels if their final position is close to each other.
 
+Mex file for mac has been pre-built.
+Please feel free to download and use. If there is any issue please let me know.
+I am also happy to provide advanced functionalities if you need. So, let me know.
+
